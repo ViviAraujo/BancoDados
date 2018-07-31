@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "estabelecimento": "asa",
+      "quantidade": "1",
+      "valor_bruto": "120"
+    },
+    {
+      "id": 2,
+      "estabelecimento": "vitamilho",
+      "quantidade": "2",
+      "valor_bruto": "220"
+    },
+    {
+      "id": 3,
+      "estabelecimento": "palmeiron",
+      "quantidade": "3",
+      "valor_bruto": "320"
+    }
+  ],
+  
+  "asa": [
+    {
+      "id": 1,
+      "estabelecimento": "001",
+      "data": "31/07/2018",
+      "NotaFaturada": "320",
+      "NotaExpedida": "12" ,
+      "NotaPendente":"2",
+      "ValorBrutoFaturada":"120",
+      "ValorBrutoExpedida":"150",
+      "ValorBrutoPendente":"180"
+    }
+  ],
+
+  "palmeiron": [
+    {
+      "id": 1,
+      "estabelecimento": "030",
+      "data": "31/07/2018",
+      "NotaFaturada": "320",
+      "NotaExpedida": "12" ,
+      "NotaPendente":"2",
+      "ValorBrutoFaturada":"120",
+      "ValorBrutoExpedida":"150",
+      "ValorBrutoPendente":"180"
+
+    }
+  ],
+  "vitamilho": [
+    {
+      "id": 1,
+      "estabelecimento": "040",
+      "data": "31/07/2018",
+      "NotaFaturada": "320",
+      "NotaExpedida": "12" ,
+      "NotaPendente":"2",
+      "ValorBrutoFaturada":"120",
+      "ValorBrutoExpedida":"150",
+      "ValorBrutoPendente":"180"
+      } 
+     ]
+}
